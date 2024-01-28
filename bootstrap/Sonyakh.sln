@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonyakh", "Sonyakh\Sonyakh.csproj", "{074540DE-B48E-4D9D-BAA7-4BF07D8DB93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonyakh.Tests", "Sonyakh.Tests\Sonyakh.Tests.csproj", "{2607F787-7250-4FDB-B7CD-269D37D0EB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074540DE-B48E-4D9D-BAA7-4BF07D8DB93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074540DE-B48E-4D9D-BAA7-4BF07D8DB93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074540DE-B48E-4D9D-BAA7-4BF07D8DB93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074540DE-B48E-4D9D-BAA7-4BF07D8DB93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2607F787-7250-4FDB-B7CD-269D37D0EB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2607F787-7250-4FDB-B7CD-269D37D0EB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2607F787-7250-4FDB-B7CD-269D37D0EB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2607F787-7250-4FDB-B7CD-269D37D0EB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
